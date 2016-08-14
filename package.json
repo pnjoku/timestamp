@@ -1,0 +1,17 @@
+{
+  "name": "timestamp",
+  "version": "0.0.0",
+  "description": "timestamp",
+  "main": "server.js",
+  "author": "Prince",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "moment": "^2.10.6"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "license": "ISC"
+}
