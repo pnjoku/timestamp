@@ -2,7 +2,6 @@
 
 var app = require('express')();
 var bodyParser = require('body-parser');
-var express = require('express');
 var moment = require('moment');
 var path = require('path');
 
